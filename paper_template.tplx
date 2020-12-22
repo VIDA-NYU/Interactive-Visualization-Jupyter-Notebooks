@@ -1,0 +1,14 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Jorge Piazentin Ono, Juliana Freire, Claudio T. Silva}
+((* endblock author *))
+
+((* block title *))
+\title{Interactive Data Visualizations in Jupyter Notebooks}
+((* endblock title *))
+
+((* block bibliography *))
+\bibliographystyle{unsrt}
+\bibliography{paper}
+((* endblock bibliography *))
