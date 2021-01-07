@@ -5,8 +5,15 @@
 ((* endblock author *))
 
 ((* block title *))
-\title{Interactive Data Visualizations in Jupyter Notebooks}
+\title{Interactive Data Visualization in Jupyter Notebooks}
 ((* endblock title *))
+
+((* block abstract *))
+\begin{abstract}
+Interactive visualizations are at the core of the exploratory data analysis process, enabling users to directly manipulate 
+and gain insights from the data. In this paper, we present three different ways in which interactive visualizations can be included in Jupyter Notebooks, in varying levels of complexity and flexibility, namely 1) Matplotlib callback mechanisms, 2) Out of the box visualization packages and 3) Custom Javascript Visualizations. We hope that this paper will help developers to select the best tools to build their interactive visualizations in Jupyter Notebooks.
+\end{abstract}
+((* endblock abstract *))
 
 ((* block bibliography *))
 \bibliographystyle{unsrt}
