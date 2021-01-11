@@ -10,7 +10,7 @@
 
 ((* block abstract *))
 \begin{abstract}
-Interactive visualizations are at the core of the exploratory data analysis process, enabling users to directly manipulate and gain insights from the data. In this paper, we present three different ways in which interactive visualizations can be included in Jupyter Notebooks, namely 1) matplotlib callbacks, 2) visualization toolkits and 3) embedding HTML visualizations. We hope that this paper will help developers to select the best tools to build their interactive charts in Jupyter Notebooks.
+Interactive visualizations are at the core of the exploratory data analysis process, enabling users to directly manipulate and gain insights from data. In this paper, we present three different ways in which interactive visualizations can be included in Jupyter Notebooks, namely 1) matplotlib callbacks, 2) visualization toolkits and 3) embedding HTML visualizations. We hope that this paper will help developers to select the best tools to build their interactive charts in Jupyter Notebooks.
 \end{abstract}
 ((* endblock abstract *))
 
